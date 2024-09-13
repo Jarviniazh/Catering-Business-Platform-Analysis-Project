@@ -25,6 +25,27 @@ This project was undertaken as part of the SYD366 course. Our objective was to a
 - Enhanced skills in UML diagram creation and system design documentation.
 - Strengthened project management and teamwork abilities through effective collaboration and task division.
 
+## UML Diagrams
+
+### Class Diagram
+The class diagram below illustrates the system architecture and relationships between different entities within the software solution.
+
+![Class Diagram](https://github.com/Jarviniazh/Catering-Business-Platform-Analysis-Project/blob/main/Resources/Class%20Diagram.jpg "Class Diagram for Catering Software")
+
+### Sequence Diagrams
+Sequence diagrams are used to show the interactions over time that the software performs in response to user actions or system events. Below are two key processes depicted via sequence diagrams.
+
+#### Create Ingredient Information
+This diagram details the process flow when a user adds new ingredient information to the system.
+
+![Create Ingredient Sequence Diagram](https://github.com/Jarviniazh/Catering-Business-Platform-Analysis-Project/blob/main/Resources/Create%20Ingredient%20Info.jpg "Sequence Diagram for Creating Ingredient Information")
+
+#### Query Ingredients by Type
+This sequence diagram illustrates the steps involved when querying the database for ingredients based on their type.
+
+![Query Ingredients Sequence Diagram](https://github.com/Jarviniazh/Catering-Business-Platform-Analysis-Project/blob/main/Resources/Query%20Ingredient%20Type.jpg "Sequence Diagram for Querying Ingredients by Type")
+
+
 ## Disclaimer
 This repository is intended for educational purposes only and contains generalized methodologies, processes, and outcomes from the Catering Business Platform Analysis project. It is designed to prevent direct replication for academic submissions.
 
